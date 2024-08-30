@@ -1,0 +1,2 @@
+profile = ProfileReport(df, title="Pandas Profiling Report")
+
